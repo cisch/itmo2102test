@@ -1,2 +1,2 @@
 Wir testen GIT.
-Und machen Änderungen.
+Und machen große Änderungen.
